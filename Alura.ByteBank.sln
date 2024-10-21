@@ -44,6 +44,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anotacoes", "Anotacoes", "{
 		Aula-02-Item-06-CriandoPrimeiroTeste.md = Aula-02-Item-06-CriandoPrimeiroTeste.md
 		Aula-02-Item-08-RecuperandoUmScript.md = Aula-02-Item-08-RecuperandoUmScript.md
 		Aula-03-Item-02-CapturandoElementosDaPagina.md = Aula-03-Item-02-CapturandoElementosDaPagina.md
+		Aula-04-Item-02-UsandoLocalizadores.md = Aula-04-Item-02-UsandoLocalizadores.md
+		Aula-04-Item-04-TestandoComLocalizadores.md = Aula-04-Item-04-TestandoComLocalizadores.md
+		Aula-04-Item-05-CorrecaoOrtografica.md = Aula-04-Item-05-CorrecaoOrtografica.md
+		Aula-04-Item-05-FacaComoEuFiz-ListaDeElementosDePagina.md = Aula-04-Item-05-FacaComoEuFiz-ListaDeElementosDePagina.md
+		Aula-05-Item-02-OQueSaoPageObjects.md = Aula-05-Item-02-OQueSaoPageObjects.md
+		Aula-05-Item-04-ParaSaberMaisPadroesDeProjeto.md = Aula-05-Item-04-ParaSaberMaisPadroesDeProjeto.md
+		Aula-05-Item-05-TestandoComPageObjects.md = Aula-05-Item-05-TestandoComPageObjects.md
+		Aula-05-Item-06-BoasPraticas.md = Aula-05-Item-06-BoasPraticas.md
+		Aula-05-Item-07-FacaComEuFiz-GerenciandoONavegador.md = Aula-05-Item-07-FacaComEuFiz-GerenciandoONavegador.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.ByteBank.WebApp.Testes", "Alura.ByteBank.WebApp.Testes\Alura.ByteBank.WebApp.Testes.csproj", "{D9ABEF0F-2B57-4161-B612-7F19FD2F69E4}"
